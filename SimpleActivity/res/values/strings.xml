@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleActivity</string>
+    
+    <string name="main_layout_text_view">SendData</string>
+    
+    <string name="main_layout_button_text">FirstActivity</string>
+    
+    <string name="title_activity_second">SecondActivity</string>
+    
+    <string name="second_layout_text_view">ReceivedData</string>
+
+</resources>
